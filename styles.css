@@ -1027,4 +1027,8 @@ section{ position: relative; }
   .form-row-split{ grid-template-columns: 1fr; }
   .hero-title{ font-size: clamp(2.6rem, 11vw, 3.6rem); }
   .event-row{ flex-direction: column; }
+
+  .hero-content{ padding-bottom: 150px; }
+  #heroTablescape{ transform: translate(90px, 130px); }
+  .intro-art{ aspect-ratio: 4/5; }
 }
